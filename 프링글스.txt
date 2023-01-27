@@ -1,0 +1,6 @@
+cpu 인텔코어i3-12세대12100F(엘더레이크) 122370 인텔 1700 45 4 8 c1
+ram 마이크론_Crucial_DDR4-3200_CL22(16GB) 33700 4 3200 r7
+gpu MSI_지포스_RTX_3080_슈프림_X_D6X_10GB_트라이프로져2S_LHR 1209600 1905 336 g1
+case 앱코_SUITMASTER_211T_로버스트_강화유리 37700 matx 310 335 a1
+power 쿨러마스터_MWE_600_BRONZE_V2_230V 67270 atx 99 p1
+main ASUS_TUF_Gaming_B660M-PLUS_D4_아이보라 226360 1700 matx 4 m1

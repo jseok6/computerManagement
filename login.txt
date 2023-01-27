@@ -1,0 +1,4 @@
+team7a 1234 프링글스 buy
+team7b 1234 하리보 sell
+abcd 1379 홈런볼 buy
+bbbb 1234 양파링 sdf buy

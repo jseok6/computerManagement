@@ -1,0 +1,90 @@
+cpu 인텔코어i3-12세대12100F(엘더레이크) 122370 인텔 1700 45 4 8 사무용 c1
+cpu AMD라이젠5PRO4650G(르누아르) 16380 amd am4 4 6 12 방송용 c2
+cpu AMD라이젠5-4세대5600X(버미어) 231340 amd am4 4 6 12 게이밍 c3
+cpu AMD라이젠7-4세대5800X(버미어) 332640 amd am4 4 8 16 방송용 c4
+cpu 인텔코어i7-12세대12700K(엘더레이크) 567870 인텔 1700 45 12 20 게이밍 c5
+cpu 인텔코어i5-12세대12400F(엘더레이크) 223890 인텔 1700 45 6 12 사무용 c6
+cpu 인텔코어i9-12세대12900K(엘더레이크) 805680 인텔 1700 45 16 24 게이밍 c7
+cpu 인텔코어i7-12세대12700F(엘더레이크) 434060 인텔 1700 45 12 20 방송용 c8
+cpu AMD라이젠5-4세대5600G(세잔) 219240 amd am4 4 6 12 사무용 c9
+cpu AMD라이젠5PRO4650G(르누아르) 160380 amd am4 4 6 12 게이밍 cc
+cooler JONSBO_CR-1000_AUTO_RGB 40880 162 37 1800 방송용 l1
+cooler MSI_MAG_코어리퀴드_C240 68670 120 34 2000 게이밍 l2
+cooler 쿨러마스터_MasterLiquid_ML360L_V2_ARGB(BLACK) 150200 120 27 1800 게이밍 l3
+cooler ALSEYE_M120_SE_AUTO_RGB 21110 120 33 1700 사무용 l4
+cooler PCCOOLER_PALADIN_400 30520 130 28 1600 방송용 l5
+cooler PCCOOLER_PALADIN_400_ARGB 35430 130 28 1600 사무용 l6
+cooler DEEPCOOL_GAMMAXX_400_XT(BLACK) 24530 120 27 1500 게이밍 l7
+cooler 잘만_CNPS9X_OPTIMA_WHITE_LED 25400 120 26 500 사무용 l8
+cooler 에너맥스_LIQMAX_III_ARGB_360(블랙) 124020 120 27 1600 게이밍 l9
+cooler NZXT_KRAKEN_X73 251790 120 36 2000 사무용 ll
+main ASUS_TUF_Gaming_B660M-PLUS_D4_아이보라 226360 1700 matx 4 방송용 m1
+main MSI_MAG_B660M_박격포_WIFI_DDR4 123580 1700 matx 4 사무용 m2
+main ASRock_H610M-HDV/M.2_D4_에즈윈 226770 1700 atx 4 게이밍 m3
+main ASUS_PRIME_B660M-K_D4_인텍앤컴퍼니 15660 1700 matx 4 사무용 m4
+main GIGABYTE_B660M_DS3H_D4_피씨디렉트 144180 1800 matx 4 방송용 m5
+main ASUS_PRIME_B550M-A_대원CTS 100280 am4 matx 4 사무용 m6
+main ASUS_PRIME_B550M-A_대원CTS 113930 1700 matx 4 게이밍 m7
+main ASUS_PRIME_H610M-K_D4_인텍앤컴퍼니 177400 1700 matx 4 사무용 m8
+main ASRock_B660M_Pro_RS_D4_에즈원 155700 1700 matx 4 방송용 m9
+main ASUS_PRIME_B660M-A_D4_STCOM 159790 am4 matx 4 사무용 mm
+ram 삼성전자_DDR5-4800_(16GB) 296480 5 4800 게이밍 r1
+ram GeIL_DDR4-3200_CL22_ORION_RGB_Gray(8GB) 45990 4 3200 게이밍 r2
+ram 삼성전자_DDR4-3200(8GB) 39140 4 3200 방송용 r3
+ram 삼성전자_DDR4-3200(16GB) 81810 4 3200 게이밍 r4
+ram 마이크론_Crucial_DDR4-3200_CL22(8GB) 32610 4 3200 방송용 r5
+ram 삼성전자_DDR4-3200(32GB) 16380 4 3200 사무용 r6
+ram 마이크론_Crucial_DDR4-3200_CL22(16GB) 33700 4 3200 게이밍 r7
+ram GeIL_DDR4-3200_CL22_PRISTINE(8GB) 31090 4 3200 방송용 r8
+ram 삼성전자_DDR5-4800_병행수입(8GB) 61090 5 4800 게이밍 r9
+ram G.SKILL_DDR4-3600_CL16_TRIDENT_Z_NEO_C_패키지(32GB(16Gx2)) 270020 4 3600 게이밍 rr
+gpu MSI_지포스_RTX_3080_슈프림_X_D6X_10GB_트라이프로져2S_LHR 1209600 1905 336 사무용 g1
+gpu GAINWARD_지포스_GT1030_D4_2GB_디앤디컴 118270 1151 135 방송용 g2
+gpu 이엠텍_지포스_RTX_3050_STORM_X_Dual_OC_D6_8GB 437400 1552 245 게이밍 g3
+gpu 이엠텍_지포스_RTX_3060_STORM_X_Dual_OC_D6_12GB 556200 1848 245 사무용 g4
+gpu MSI_지포스_RTX_3060_게이밍_X_D6_12GB_트윈프로져8 563760 1837 276 게이밍 g5
+gpu SAPPHIRE_라데온_RX_6600_PULSE_D6_8GB_Dual-X 411480 2491 193 방송용 g6
+gpu MSI_지포스_RTX_2060_벤투스_OC_D6_12GB 309320 1690 231 사무용 g7
+gpu 이엠텍_지포스_RTX_3070_Ti_BLACK_EDITION_D6X_8GB 965520 1575 294 게이밍 g8
+gpu 이엠텍_지포스_RTX_3070_BLACK_EDITION_OC_D6_8GB_LHR 881280 1770 294 사무용 g9
+gpu 이엠텍_지포스_RTX_3060_Ti_STORM_X_Dual_OC_D6_8GB 739610 1695 247 게이밍 gg
+ssd 키오시아_EXCERIA_M.2_NVMe(1TB) 134840 1000 1700 1600 방송용 s1
+ssd 마이크론_Crucial_P2_M.2_NVMe_대원CTS(250GB) 47660 250 2100 1150 게이밍 s2
+ssd Western_Digital_WD_Blue_SN570_M.2_NVMe(500GB) 63900 500 3500 2300 사무용 s3
+ssd 삼성전자_870_EVO(500GB) 74850 500 560 530 방송용 s4
+ssd 삼성전자_PM9A1_M.2_NVMe_병행수입(512GB) 81870 512 6900 5000 게이밍 s5
+ssd SK하이닉스_Platinum_P41_M.2_NVMe(1TB) 210600 1000 7000 6500 사무용 s6
+ssd SK하이닉스_Gold_P31_M.2_NVMe(500GB) 84480 500 3500 3200 게이밍 s7
+ssd 삼성전자_980_M.2_NVMe(1TB) 117180 1000 3500 3000 사무용 s8
+ssd 마이크론_Crucial_P5_Plus_M.2_NVMe_대원CTS(1TB) 181950 1000 6600 5000 게이밍 s9
+ssd Western_Digital_WD_Blue_SN570_M.2_NVMe(500GB) 48090 500 560 510 사무용 ss
+hdd Western_Digital_WD_BLUE_7200/64M(WD10EZEX,1TB) 59130 7200 64 방송용 h1
+hdd Seagate_BarraCuda_7200/256M_(ST2000DM008,2TB) 68040 7200 256 사무용 h2
+hdd Seagate_BarraCuda_5400/256M/해외구매(ST8000DM004_8TB) 250200 5400 256 게이밍 h3
+hdd Seagate_BarraCuda_5400/256M(ST4000DM004,4TB) 114480 5400 256 사무용 h4
+hdd Western_Digital_WD_BLUE_7200/256M(WD20EZBX,2TB) 68360 7200 256 게이밍 h5
+hdd Western_igital_WD_BLUE_5640/128M(WD80EAZZ,8TB) 213840 5640 128 방송용 h6
+hdd Western_Digital_WD_BLUE_7200/64M_(WD10EZEX,1TB) 59130 7200 64 게이밍 h7
+hdd Seagate_BarraCuda_5400/256M(ST8000DM004,8TB) 201650 5400 256 사무용 h8
+hdd 도시바_P300_5400/128M_(HDWD240,_4TB) 102600 5400 128 방송용 h9
+hdd Seagate_IronWolf_Pro_7200/256M(ST20000NE000,20TB) 846930 7200 256 사무용 hh
+case 앱코_SUITMASTER_211T_로버스트_강화유리 37700 matx 310 335 게이밍 a1
+case darkFlash_DLM21_RGB_MESH_강화유리(화이트) 38520 matx 210 330 사무용 a2
+case COX_D200_강화유리(핑크) 48860 matx 180 330 게이밍 a3
+case 마이크로닉스_GM1-TRANSFORM(블랙) 38000 matx 195 330 방송용 a4
+case 앱코_SUITMASTER_P1000_강화유리(블랙) 57770 atx 200 340 게이밍 a5
+case 앱코_NCORE_G30_트루포스(블랙) 38520 atx 190 325 사무용 a6
+case darkFlash_DLX21_RGB_MESH_강화유리(화이트) 91020 atx 235 400 사무용 a7
+case 마이크로닉스_Master_M60_메쉬(블랙) 28400 atx 345 340 방송용 a8
+case 앱코_G20M_미니킬러(블랙) 38200 matx 190 325 사무용 a9
+case 잘만_i3_NEO 88430 atx 170 340 게이밍 aa
+power 쿨러마스터_MWE_600_BRONZE_V2_230V 67270 atx 99 게이밍 p1
+power 마이크로닉스_Classic_II_SE_600W_80PLUS_230V_EU 56420 atx 90 방송용 p2
+power 잘만_MegaMax_ET_600W_80PLUS_STANDARD 46200 atx 90 사무용 p3
+power 스카이디지탈_파워스테이션5_PS5-500EV_80PLUS_Standard 111760 atx 90 게이밍 p4
+power 마이크로닉스_Classic_II_풀체인지_600W_80PLUS_230V_EU 47770 atx 100 사무용 p5
+power 마이크로닉스_Classic_II_850W_80PLUS_GOLD_230V_EU_풀모듈러 87200 atx 100 사무용 p6
+power 마이크로닉스_Classic_II_풀체인지_800W_80PLUS_230V_EU 73030 atx 100 방송용 p7
+power 마이크로닉스_Classic_II_풀체인지_700W_80PLUS_230V_EU 118540 atx 100 게이밍 p8
+power 맥스엘리트_MAXWELL_BARON_800W_80PLUS_BRONZE_플랫 47300 atx 100 방송용 p9
+power 마이크로닉스_Classic_II_1050W_80PLUS_GOLD_230V_EU_풀모듈러 157000 atx 90 사무용 pp
